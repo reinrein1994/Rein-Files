@@ -1,0 +1,6 @@
+{
+  "name": "Grade 5 in Camiguin 2026",
+  "description": "Group accommodation voting and resort comparison planner for Grade 5 in Camiguin 2026. View 2-night rates, locations, coordinates, amenities, pax capacity, photos, and edit or replace resort choices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

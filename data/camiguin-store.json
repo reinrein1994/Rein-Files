@@ -1,0 +1,137 @@
+{
+  "title": "Grade 5 in Camiguin 2026",
+  "subtitle": "Pick where we should stay — compare 2-night rates, locations, coordinates, and photos.",
+  "places": [
+    {
+      "id": "bintana",
+      "name": "Bintana Sa Paraiso",
+      "url": "https://www.agoda.com/sh-app/1hD41KngMbT",
+      "location": "Tangub, Naasag, Mambajao, Camiguin 9100",
+      "coordinates": {
+        "lat": "9.2450",
+        "lng": "124.6750"
+      },
+      "rateForTwoNights": "₱9,000 – ₱17,000",
+      "rateNote": "2 nights · per room (approx. ₱4,500–₱8,500/night, breakfast included)",
+      "pax": "2 – 4 pax per room",
+      "amenities": [
+        "Cliffside infinity pool overlooking the Bohol Sea",
+        "Starlink high-speed Wi-Fi",
+        "Josh + Luke on-site restaurant",
+        "Daily breakfast & room service",
+        "Natural hot spring access nearby",
+        "Air-conditioning & private balcony"
+      ],
+      "photos": [
+        "/src/assets/images/bintana_cliffside_pool_1795052282139.jpg",
+        "/src/assets/images/camiguin_villa_bedroom_1795052284349.jpg",
+        "/src/assets/images/camiguin_dining_terrace_1795052284286.jpg"
+      ]
+    },
+    {
+      "id": "palermo",
+      "name": "Palermo's Islandville Villas",
+      "url": "https://www.agoda.com/sh-app/N3wHEuH7w1m",
+      "location": "Coastal Road, Catarman, Camiguin 9104",
+      "coordinates": {
+        "lat": "9.1325",
+        "lng": "124.6790"
+      },
+      "rateForTwoNights": "₱7,000 – ₱11,600",
+      "rateNote": "2 nights · standard villa slot (full multi-bedroom group villa rates vary by season)",
+      "pax": "Up to 22 – 24 pax (full villa)",
+      "amenities": [
+        "Private outdoor swimming pool",
+        "Direct beach shoreline access",
+        "Outdoor kitchen & BBQ grilling area",
+        "Air-conditioned multi-room layout",
+        "Free private on-site parking",
+        "Free Wi-Fi in common & villa areas"
+      ],
+      "photos": [
+        "/src/assets/images/palermo_islandville_villa_1795052282714.jpg",
+        "/src/assets/images/camiguin_dining_terrace_1795052284286.jpg",
+        "/src/assets/images/camiguin_villa_bedroom_1795052284349.jpg"
+      ]
+    },
+    {
+      "id": "puesta",
+      "name": "Puesta del Sol Beach Bungalows and Restobar",
+      "url": "https://www.agoda.com/sh-app/1QrYxP72umg",
+      "location": "Barangay Yumbing, Mambajao, Camiguin 9100",
+      "coordinates": {
+        "lat": "9.2492",
+        "lng": "124.6619"
+      },
+      "rateForTwoNights": "₱4,400 – ₱6,000",
+      "rateNote": "2 nights · per bungalow (approx. ₱2,200–₱3,000/night, near White Island jump-off)",
+      "pax": "2 – 4 pax per bungalow",
+      "amenities": [
+        "Beachfront plunge pool & shoreline access",
+        "In-house Mexican & Filipino Restobar",
+        "Sunset rooftop terrace & lounge",
+        "Air-conditioned bungalows with hot/cold shower",
+        "Free parking & tour assistance",
+        "Free Wi-Fi in public areas"
+      ],
+      "photos": [
+        "/src/assets/images/puesta_beach_bungalows_1795052283686.jpg",
+        "/src/assets/images/camiguin_villa_bedroom_1795052284349.jpg",
+        "/src/assets/images/camiguin_dining_terrace_1795052284286.jpg"
+      ]
+    },
+    {
+      "id": "playa",
+      "name": "Playa del Fuego Camiguin Beach Hostel & Resort",
+      "url": "https://www.agoda.com/sh-app/aCXjmSHU1Zi",
+      "location": "Lower Banlas, Agoho, Mambajao, Camiguin 9100",
+      "coordinates": {
+        "lat": "9.2428",
+        "lng": "124.6695"
+      },
+      "rateForTwoNights": "₱2,700 – ₱6,000",
+      "rateNote": "2 nights · double/deluxe bungalow (dorm beds from ₱1,300 for 2 nights)",
+      "pax": "2 – 8 pax per bungalow / dorm",
+      "amenities": [
+        "Private volcanic black sand beachfront",
+        "Beachfront bar & dining space",
+        "Garden hammocks facing White Island",
+        "Free resort-wide Wi-Fi",
+        "Island tour & shuttle coordination",
+        "Free on-site parking"
+      ],
+      "photos": [
+        "/src/assets/images/playa_fuego_beachfront_1795052283669.jpg",
+        "/src/assets/images/camiguin_dining_terrace_1795052284286.jpg",
+        "/src/assets/images/camiguin_villa_bedroom_1795052284349.jpg"
+      ]
+    },
+    {
+      "id": "mirasol",
+      "name": "Mirasol Lodge Camiguin",
+      "url": "https://www.agoda.com/sh-app/O6CKatsP3di",
+      "location": "Balbagon, Mambajao, Camiguin 9100",
+      "coordinates": {
+        "lat": "9.2385",
+        "lng": "124.7322"
+      },
+      "rateForTwoNights": "₱4,600 – ₱8,600",
+      "rateNote": "2 nights · whole lodge unit (approx. ₱2,300–₱4,300/night)",
+      "pax": "6 – 7 pax (whole lodge unit)",
+      "amenities": [
+        "Air-conditioned rooms with twin & double beds",
+        "Kitchen & basic meal prep area",
+        "Private bathroom & spacious veranda",
+        "Free Wi-Fi access",
+        "Covered garage parking",
+        "Pet-friendly family accommodation"
+      ],
+      "photos": [
+        "/src/assets/images/mirasol_lodge_camiguin_1795052285249.jpg",
+        "/src/assets/images/camiguin_villa_bedroom_1795052284349.jpg",
+        "/src/assets/images/camiguin_dining_terrace_1795052284286.jpg"
+      ]
+    }
+  ],
+  "votes": []
+}

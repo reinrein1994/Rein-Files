@@ -1,0 +1,128 @@
+@import "tailwindcss";
+
+:root {
+  --ink: #1f2740;
+  --mute: #7a849c;
+  --green: #2fbf7f;
+  --green2: #1fa76b;
+}
+
+@layer base {
+  * {
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  html,
+  body,
+  #root {
+    margin: 0;
+    height: 100%;
+  }
+
+  body {
+    font-family: 'Nunito', system-ui, sans-serif;
+    color: var(--ink);
+    background: radial-gradient(circle at 20% 0%, #fff 0, #eef2fb 50%, #e1e8f6 100%);
+  }
+}
+
+.orb {
+  position: fixed;
+  border-radius: 50%;
+  filter: blur(55px);
+  opacity: 0.6;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.orb.o1 {
+  width: 260px;
+  height: 260px;
+  background: #cfe0ff;
+  top: -60px;
+  right: -70px;
+}
+
+.orb.o2 {
+  width: 240px;
+  height: 240px;
+  background: #d6f5e6;
+  bottom: 60px;
+  left: -80px;
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(18px) saturate(1.4);
+  -webkit-backdrop-filter: blur(18px) saturate(1.4);
+  border: 1px solid rgba(255, 255, 255, 0.9);
+  border-radius: 26px;
+  box-shadow: 0 18px 36px rgba(60, 80, 130, 0.12), inset 0 1px 0 rgba(255, 255, 255, 0.95);
+}
+
+.glass-modal {
+  background: rgba(248, 250, 255, 0.94);
+  backdrop-filter: blur(22px) saturate(1.4);
+  -webkit-backdrop-filter: blur(22px) saturate(1.4);
+  border: 1px solid rgba(255, 255, 255, 0.95);
+  border-radius: 26px;
+  box-shadow: 0 24px 48px rgba(31, 39, 64, 0.22), inset 0 1px 0 rgba(255, 255, 255, 0.95);
+}
+
+.cam-btn {
+  border: 0;
+  cursor: pointer;
+  font: 800 0.92rem 'Nunito', sans-serif;
+  text-decoration: none;
+  text-align: center;
+  display: block;
+  width: 100%;
+  padding: 13px 16px;
+  border-radius: 16px;
+  color: #fff;
+  background: linear-gradient(135deg, #4bd69b, var(--green2));
+  box-shadow: 0 10px 20px rgba(47, 191, 127, 0.35), inset 0 1px 0 rgba(255, 255, 255, 0.4);
+  transition: transform 0.15s;
+}
+
+.cam-btn:active {
+  transform: translateY(2px) scale(0.98);
+}
+
+.cam-btn:disabled {
+  opacity: 0.5;
+  box-shadow: none;
+  cursor: default;
+}
+
+.cam-choose {
+  background: rgba(255, 255, 255, 0.9);
+  color: var(--green2);
+  box-shadow: 0 6px 14px rgba(60, 80, 130, 0.14), inset 0 0 0 2px rgba(47, 191, 127, 0.45);
+}
+
+.cam-card.sel {
+  outline: 2.5px solid var(--green);
+}
+
+.cam-card.sel .cam-choose {
+  background: linear-gradient(135deg, #4bd69b, var(--green2));
+  color: #fff;
+  box-shadow: 0 10px 20px rgba(47, 191, 127, 0.35);
+}
+
+@keyframes pop {
+  from {
+    transform: scale(0);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.avatar-pop {
+  animation: pop 0.35s cubic-bezier(0.3, 1.6, 0.5, 1);
+}
