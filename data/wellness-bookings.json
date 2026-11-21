@@ -1,0 +1,130 @@
+[
+  {
+    "id": "f09b3675-6529-4ad6-a42b-8e64237384eb",
+    "timestamp": "11/21/2026, 04:39:48 PM",
+    "filingDate": "Nov 21, 2026",
+    "formattedName": "A. Reyes",
+    "firstName": "Ana",
+    "firstInitials": "A.",
+    "lastName": "Reyes",
+    "department": "Grade 1",
+    "dates": [
+      "2026-12-20"
+    ],
+    "daysCount": 1,
+    "dateLabel": "2026-12-20",
+    "form6TokenHash": "b697d288a9f612350ce7b2b7a3b36f125e6c81113b92517eafa9b4c67e08651e"
+  },
+  {
+    "id": "f76e10b5-95a9-4f48-b3ae-9cebd202b409",
+    "timestamp": "11/21/2026, 04:39:48 PM",
+    "filingDate": "Nov 21, 2026",
+    "formattedName": "B. Cruz",
+    "firstName": "Ben",
+    "firstInitials": "B.",
+    "lastName": "Cruz",
+    "department": "Grade 1",
+    "dates": [
+      "2026-12-20"
+    ],
+    "daysCount": 1,
+    "dateLabel": "2026-12-20",
+    "form6TokenHash": "56ee7bf99f9bacd2a9262f8828a1e10ba10f3c04aa614bbb2b4bdf714336c68b"
+  },
+  {
+    "id": "2e35bf9d-a25b-41c1-8cc5-f5344c77d607",
+    "timestamp": "11/21/2026, 04:47:47 PM",
+    "filingDate": "Nov 21, 2026",
+    "formattedName": "A. One",
+    "firstName": "Ana",
+    "firstInitials": "A.",
+    "lastName": "One",
+    "department": "Grade 1",
+    "dates": [
+      "2026-12-22"
+    ],
+    "daysCount": 1,
+    "dateLabel": "2026-12-22",
+    "form6TokenHash": "628d7abdc1a016dabb2a38445d93901c7c7ee622a1fb09496defffd75fd70cf0"
+  },
+  {
+    "id": "1f93b546-ca2f-4809-9a50-ce94632c1f5a",
+    "timestamp": "11/21/2026, 04:47:47 PM",
+    "filingDate": "Nov 21, 2026",
+    "formattedName": "B. Two",
+    "firstName": "Ben",
+    "firstInitials": "B.",
+    "lastName": "Two",
+    "department": "Grade 1",
+    "dates": [
+      "2026-12-22"
+    ],
+    "daysCount": 1,
+    "dateLabel": "2026-12-22",
+    "form6TokenHash": "2179d784b84d9f67d54c8e98675048ecd199c78b78780a368b529a3257a0bac2"
+  },
+  {
+    "id": "cf9888a9-fcdf-4b4b-a47d-e14affbcc431",
+    "timestamp": "11/21/2026, 04:47:47 PM",
+    "filingDate": "Nov 21, 2026",
+    "formattedName": "D. Four",
+    "firstName": "Dan",
+    "firstInitials": "D.",
+    "lastName": "Four",
+    "department": "Grade 2",
+    "dates": [
+      "2026-12-22"
+    ],
+    "daysCount": 1,
+    "dateLabel": "2026-12-22",
+    "form6TokenHash": "7b654344b3d78028a6037e88e93529ace5e72fad951711a73f3f3286bb27594c"
+  },
+  {
+    "id": "8a25c6f0-a68b-4149-8243-2d12c49ccbfb",
+    "timestamp": "11/21/2026, 04:47:47 PM",
+    "filingDate": "Nov 21, 2026",
+    "formattedName": "E. Five",
+    "firstName": "Eva",
+    "firstInitials": "E.",
+    "lastName": "Five",
+    "department": "Administration",
+    "dates": [
+      "2026-12-22"
+    ],
+    "daysCount": 1,
+    "dateLabel": "2026-12-22",
+    "form6TokenHash": "c5d278303b40b2908cbe376c0ff01750bae51fc5ffaffe60e93a1a1f93f299f6"
+  },
+  {
+    "id": "92436253-0d67-4a2e-9bc9-1594caf2b981",
+    "timestamp": "11/21/2026, 04:47:47 PM",
+    "filingDate": "Nov 21, 2026",
+    "formattedName": "F. Six",
+    "firstName": "Fay",
+    "firstInitials": "F.",
+    "lastName": "Six",
+    "department": "Administration",
+    "dates": [
+      "2026-12-22"
+    ],
+    "daysCount": 1,
+    "dateLabel": "2026-12-22",
+    "form6TokenHash": "e7bdb5a6d67dc42439b0a99067a12bbdc34c0f2e85c608047217c790315980d0"
+  },
+  {
+    "id": "e2cc134e-a2fe-4b89-b669-7f2fa927635d",
+    "timestamp": "11/21/2026, 04:47:47 PM",
+    "filingDate": "Nov 21, 2026",
+    "formattedName": "G. Seven",
+    "firstName": "Gil",
+    "firstInitials": "G.",
+    "lastName": "Seven",
+    "department": "Administration",
+    "dates": [
+      "2026-12-22"
+    ],
+    "daysCount": 1,
+    "dateLabel": "2026-12-22",
+    "form6TokenHash": "542608d727e319e636d70970ccc8f48c0eae0cb1dea3746fe8f0e41e93e0a3e6"
+  }
+]
